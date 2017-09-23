@@ -1,0 +1,22 @@
+#header1
+{
+    margin: 0px;
+}
+
+#header1 h2
+{
+    font-size: xx-large;
+    font-weight:bolder;
+    letter-spacing: 1px;
+    line-height: 40px;
+    background-color: aliceblue;
+    margin-left: 50px;
+}
+
+#header1 h3
+{
+    font-size: larger;
+    line-height: 30px;
+    margin-left: 100px;
+    letter-spacing: 1px;
+ }

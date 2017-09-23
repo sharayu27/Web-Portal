@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    margin-left: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    text-align: left;
+    padding: 15px;
+}
+
+//tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #00cccc;
+    color: white;
+}
+
+
+.button {
+  display: compact;
+  padding: 5px 5px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 10px;
+ // box-shadow: 0 9px #999;
+}
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
